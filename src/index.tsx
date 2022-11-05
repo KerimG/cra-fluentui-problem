@@ -14,7 +14,6 @@ root.render(
     <FluentProvider theme={teamsLightTheme}>
       <App />
     </FluentProvider>
-    ,
   </React.StrictMode>
 );
 
